@@ -17,3 +17,12 @@ The main factors are listed below:
 - ReturnRate: Percentage change in portfolio value
 - WindowSize: Number of trading periods to be considered
 - SplitSize: % of data to be used for training dataset, rest will be used for test dataset
+
+# 4.Get Stocks and Cryptocurrency Trading data
+We propose a code file [Get_data](code/data_scraping.ipynb) to get stocks and cryptocurrency trading data and build them into pandas dataframe.
+
+The main sources are:
+
+- Yahoo Finance
+- NASDAQ
+
