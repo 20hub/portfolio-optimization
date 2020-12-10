@@ -2,7 +2,7 @@
 Financial portfolio optimization is the process of redistributing funds into multiple financial vehicles at a given timestamp to maximize returns while minimizing the risk at the same time.For a holding period of one trading day, we use our portfolio optimization code to construct weights of the 16 assets held in our portfolio.Then we rebalance the equity portion of our portfolio every trading day and keep using rolling window to update our method.
 
 # 2.Framework
-The baseline framework is implemented using the concept
+The baseline framework is implemented using the concept:
 
 - Modern Portfolio Theory.
 - The Reinforcement Learning framework is implemented using two machine learning methods: Convolutional Neural Network (CNN) and Long Short Term Memory (LSTM).
