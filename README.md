@@ -4,15 +4,17 @@ Financial portfolio optimization is the process of redistributing funds into mul
 # 2.Framework
 The baseline framework is implemented using the concept
 
-1. Modern Portfolio Theory.
+1.Modern Portfolio Theory.
 
 2.The Reinforcement Learning framework is implemented using two machine learning methods: Convolutional Neural Network (CNN) and Long Short Term Memory (LSTM).
 
 # 3.Set a Reinforcement Learning Environment
 We propose a code file [RL Environment](code/RLEnvironment.ipynb) to set reinforcement learning trading environment.
+
 The main factors are listed below:
-PortfolioValue: value of the finance portfolio
-TransCost: Transaction cost that has to be paid by the agent to execute the action
-ReturnRate: Percentage change in portfolio value
-WindowSize: Number of trading periods to be considered
-SplitSize: % of data to be used for training dataset, rest will be used for test dataset
+
+- PortfolioValue: value of the finance portfolio
+- TransCost: Transaction cost that has to be paid by the agent to execute the action
+- ReturnRate: Percentage change in portfolio value
+- WindowSize: Number of trading periods to be considered
+- SplitSize: % of data to be used for training dataset, rest will be used for test dataset
