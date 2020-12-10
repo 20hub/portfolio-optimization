@@ -30,4 +30,4 @@ The main sources are:
 After all the preparation, we propose a code file [Data_Analysis](code/exploratory_data_analysis.ipynb) to do the detailed analysis and iterations.
 
 # 6.Other files
-Other files regarding cnn-policy and LSTM-poly and their realization and the resulting parameters are listed as python files collected in 'code' document file.
+Other files regarding cnn-policy and LSTM-poly and their realization and the resulting parameters are listed as python files collected in [code] document file.
