@@ -5,7 +5,6 @@ Financial portfolio optimization is the process of redistributing funds into mul
 The baseline framework is implemented using the concept
 
 1.Modern Portfolio Theory.
-
 2.The Reinforcement Learning framework is implemented using two machine learning methods: Convolutional Neural Network (CNN) and Long Short Term Memory (LSTM).
 
 # 3.Set a Reinforcement Learning Environment
